@@ -555,7 +555,7 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     email: "mailto:srijashenkeshi1@gmail.com",
-    profile_image_path: "me.png",
+    profile_image_path: "me3.png",
     description:
       "You can drop a mail. I can help you with Spring Boot, Docker, Kubernetes, GitHub Actions and DevOps operations.",
   },
