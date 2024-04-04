@@ -559,13 +559,13 @@ const contactPageData = {
     description:
       "You can drop a mail. I can help you with Spring Boot, Docker, Kubernetes, GitHub Actions and DevOps operations.",
   },
-  // blogSection: {
-  //   title: "Blogs",
-  //   subtitle:
-  //     "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-  //   link: "https://vishalmamidi.wordpress.com",
-  //   avatar_image_path: "blogs_image.svg",
-  // },
+  blogSection: {
+    title: "Blogs",
+    subtitle:
+      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+    link: "https://vishalmamidi.wordpress.com",
+    avatar_image_path: "blogs_image.svg",
+  },
   addressSection: {
     title: "Address",
     subtitle:
@@ -573,10 +573,10 @@ const contactPageData = {
     avatar_image_path: "address_image.svg",
     location_map_link: "mailto:srijashenkeshi1@gmail.com",
   },
-  // phoneSection: {
-  //   title: "Phone Number",
-  //   subtitle: "+91 8074259529",
-  // },
+  phoneSection: {
+    title: "Phone Number",
+    subtitle: "+91 8074259529",
+  },
 };
 
 export {
