@@ -573,10 +573,10 @@ const contactPageData = {
     avatar_image_path: "address_image.svg",
     location_map_link: "mailto:srijashenkeshi1@gmail.com",
   },
-  phoneSection: {
-    title: "Phone Number",
-    subtitle: "+91 8074259529",
-  },
+  // phoneSection: {
+  //   title: "Phone Number",
+  //   subtitle: "+91 8074259529",
+  // },
 };
 
 export {
