@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1Pa0VNEPeVvUZr5lMlXbRgVy0RPyEXw5z/view?usp=sharing",
+    "https://drive.google.com/file/d/1yMdX7IfvtHoo2kLwkHDHncVHNXOuDtIA/view?usp=sharing",
   portfolio_repository: "https://github.com/srija-shenkeshi",
   githubProfile: "https://github.com/srija-shenkeshi",
 };
