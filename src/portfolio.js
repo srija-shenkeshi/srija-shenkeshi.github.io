@@ -472,7 +472,7 @@ const experience = {
           title: "Senior Software Engineer",
           company: "Cloudhalo Technology Services",
           company_url: "https://www.linkedin.com/company/cloudhalotech/",
-          logo_path: "cloudhalotech_logo.jpg.jpg",
+          logo_path: "cloudhalotech_logo.jpg",
           duration: "Apr 2024 - Present",
           location: "Chennai, Tamil Nadu",
           description:
