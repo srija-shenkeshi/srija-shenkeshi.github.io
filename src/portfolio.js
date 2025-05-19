@@ -457,6 +457,18 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Senior Software Engineer",
+          company: "Cloudhalo Technology Services",
+          company_url: "https://www.linkedin.com/company/cloudhalotech/",
+          logo_path: "cloudhalotech_logo.jpg",
+          duration: "Apr 2024 - Present",
+          location: "Chennai, Tamil Nadu",
+          description:
+            "Developing various REST micro-services with Spring Web, Spring WebFlux, Spring Cloud. " +
+            "Leveraged Spring WebFlux's reactive programming to implement performant, non-blocking GraphQL microservices.",
+          color: "#9b1578",
+        },
+        {
           title: "Software Engineer",
           company: "ValueMomentum. Pvt. Ltd.",
           company_url: "https://www.linkedin.com/company/valuemomentum/",
@@ -469,18 +481,7 @@ const experience = {
             "Participated in code reviews, identifying and resolving issues to improve overall code quality. ",
           color: "#0879bf",
         },
-        {
-          title: "Senior Software Engineer",
-          company: "Cloudhalo Technology Services",
-          company_url: "https://www.linkedin.com/company/cloudhalotech/",
-          logo_path: "cloudhalotech_logo.jpg",
-          duration: "Apr 2024 - Present",
-          location: "Chennai, Tamil Nadu",
-          description:
-            "Developing various REST micro-services with Spring Web, Spring WebFlux, Spring Cloud. " +
-            "Leveraged Spring WebFlux's reactive programming to implement performant, non-blocking GraphQL microservices.",
-          color: "#9b1578",
-        },
+
         // {
         //   title: "Process Associate",
         //   company: "Modak Analytics. Pvt. Ltd.",
