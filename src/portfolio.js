@@ -195,13 +195,13 @@ const skills = {
         // "⚡ Automating cloud infrastructure provisioning using Terraform scrips",
       ],
       softwareSkills: [
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "logos:aws",
-          // style: {
-          //   color: "#FF9900",
-          // },
-        },
+        // {
+        //   skillName: "AWS",
+        //   fontAwesomeClassname: "logos:aws",
+        //   // style: {
+        //   //   color: "#FF9900",
+        //   // },
+        // },
         {
           skillName: "Azure",
           fontAwesomeClassname: "logos:microsoft-azure",
@@ -209,13 +209,13 @@ const skills = {
           //   color: "#0089D6",
           // },
         },
-        // {
-        //   skillName: "GCP",
-        //   fontAwesomeClassname: "logos:google-cloud",
-        //   style: {
-        //     color: "#4285F4",
-        //   },
-        // },
+        {
+          skillName: "GCP",
+          fontAwesomeClassname: "logos:google-cloud",
+          style: {
+            color: "#4285F4",
+          },
+        },
         {
           skillName: "Docker",
           fontAwesomeClassname: "logos:docker-icon",
@@ -456,30 +456,30 @@ const experience = {
       title: "Work",
       experiences: [
         {
-          title: "Senior Software Engineer",
+          title: "Software Engineer",
           company: "ValueMomentum. Pvt. Ltd.",
           company_url: "https://www.linkedin.com/company/valuemomentum/",
           logo_path: "vm_logo.jpg",
-          duration: "Jun 2021 - PRESENT",
+          duration: "Jun 2021 - Mar 2024",
           location: "Hyderabad, Telangana",
           description:
-            "Designed and implemented Spring Boot-based RESTful Microservices."+
-            "Implemented JUnit tests to ensure code quality and increase test coverage, resulting in a 20% reduction in bugs."+
+            "Designed and implemented Spring Boot-based RESTful Microservices." +
+            "Implemented JUnit tests to ensure code quality and increase test coverage, resulting in a 20% reduction in bugs." +
             "Participated in code reviews, identifying and resolving issues to improve overall code quality. ",
           color: "#0879bf",
         },
-        // {
-        //   title: "Software Engineer",
-        //   company: "Virtusa Consulting Services. Pvt. Ltd.",
-        //   company_url: "https://www.linkedin.com/company/virtusa/",
-        //   logo_path: "virtusa_logo.jpg",
-        //   duration: "Dec 2018 - Aug 2021",
-        //   location: "Chennai, Tamil Nadu",
-        //   description:
-        //     "Developing various REST micro-services with Spring Web, Spring WebFlux, Spring Cloud. "+
-        //     "Develop PL/SQL procedure for various internal banking operations ",
-        //   color: "#9b1578",
-        // },
+        {
+          title: "Senior Software Engineer",
+          company: "Cloudhalo Technology Services",
+          company_url: "https://www.linkedin.com/company/cloudhalotech/",
+          logo_path: "cloudhalotech_logo.jpg.jpg",
+          duration: "Apr 2024 - Present",
+          location: "Chennai, Tamil Nadu",
+          description:
+            "Developing various REST micro-services with Spring Web, Spring WebFlux, Spring Cloud. " +
+            "Leveraged Spring WebFlux's reactive programming to implement performant, non-blocking GraphQL microservices.",
+          color: "#9b1578",
+        },
         // {
         //   title: "Process Associate",
         //   company: "Modak Analytics. Pvt. Ltd.",
@@ -544,10 +544,10 @@ const projectsHeader = {
 };
 
 const publicationsHeader = {
-//   title: "Publications",
-//   description:
-//     "I have worked on and published a few research papers and publications of my own.",
-//   avatar_image_path: "projects_image.svg",
+  //   title: "Publications",
+  //   description:
+  //     "I have worked on and published a few research papers and publications of my own.",
+  //   avatar_image_path: "projects_image.svg",
 };
 
 // Contact Page
@@ -568,14 +568,13 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Warangal, Telangana - 506002",
+    subtitle: "India",
     avatar_image_path: "address_image.svg",
     location_map_link: "mailto:srijashenkeshi1@gmail.com",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8074259529",
+    subtitle: "+91 96XXXXXXXX",
   },
 };
 
