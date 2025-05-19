@@ -3,6 +3,7 @@
 // Website related settings
 const settings = {
   isSplash: false, // Change this to false if you don't want Splash screen.
+  gender: "female", // Change it to female
 };
 
 //SEO Related settings
